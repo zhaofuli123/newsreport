@@ -1,0 +1,239 @@
+set1[8] = new Array();linkset1[8][0] = "<div class='menuitems1'><table border='0' cellpadding='0' cellspacing='0'><tr><td width='8'>&nbsp;</td><td height='18' nowrap='nowrap' align='center' valign='middle'><a href='http://zsb.nankai.edu.cn/' title='本科招生' target='_blank'/>本科招生</a></td><td width='8'>&nbsp;</td></tr></table></div>";linkset1[8][1] = "<div class='menuitems1'><table border='0' cellpadding='0' cellspacing='0'><tr><td width='8'>&nbsp;</td><td height='18' nowrap='nowrap' align='center' valign='middle'><a href='http://graduate.nankai.edu.cn/admissions/' title='研究生招生' target='_blank'/>研究生招生</a></td><td width='8'>&nbsp;</td></tr></table></div>";linkset1[8][2] = "<div class='menuitems1'><table border='0' cellpadding='0' cellspacing='0'><tr><td width='8'>&nbsp;</td><td height='18' nowrap='nowrap' align='center' valign='middle'><a href='http://hyxy.nankai.edu.cn' title='留学生招生' target='_blank'/>留学生招生</a></td><td width='8'>&nbsp;</td></tr></table></div>";linkset1[8][3] = "<div class='menuitems1'><table border='0' cellpadding='0' cellspacing='0'><tr><td width='8'>&nbsp;</td><td height='18' nowrap='nowrap' align='center' valign='middle'><a href='http://istudy.nankai.edu.cn' title='远程教育' target='_blank'/>远程教育</a></td><td width='8'>&nbsp;</td></tr></table></div>";linkset1[8][4] = "<div class='menuitems1'><table border='0' cellpadding='0' cellspacing='0'><tr><td width='8'>&nbsp;</td><td height='18' nowrap='nowrap' align='center' valign='middle'><a href='http://cj.nankai.edu.cn' title='成人教育' target='_blank'/>成人教育</a></td><td width='8'>&nbsp;</td></tr></table></div>";linkset1[8][5] = "<div class='menuitems1'><table border='0' cellpadding='0' cellspacing='0'><tr><td width='8'>&nbsp;</td><td height='18' nowrap='nowrap' align='center' valign='middle'><a href='http://career.nankai.edu.cn' title='南开就业信息网' target='_blank'/>南开就业信息网</a></td><td width='8'>&nbsp;</td></tr></table></div>";linkset1[10] = new Array();linkset1[10][0] = "<div class='menuitems1'><table border='0' cellpadding='0' cellspacing='0'><tr><td width='8'>&nbsp;</td><td height='18' nowrap='nowrap' align='center' valign='middle'><a href='/s/12/t/27/p/1/c/740/d/916/list.htm' title='南开校历' target='_self'/>南开校历</a></td><td width='8'>&nbsp;</td></tr></table></div>";linkset1[10][1] = "<div class='menuitems1'><table border='0' cellpadding='0' cellspacing='0'><tr><td width='8'>&nbsp;</td><td height='18' nowrap='nowrap' align='center' valign='middle'><a href='/s/12/t/27/p/1/c/740/d/917/list.htm' title='办公电话' target='_self'/>办公电话</a></td><td width='8'>&nbsp;</td></tr></table></div>";linkset1[10][2] = "<div class='menuitems1'><table border='0' cellpadding='0' cellspacing='0'><tr><td width='8'>&nbsp;</td><td height='18' nowrap='nowrap' align='center' valign='middle'><a href='http://hqfw.nankai.edu.cn/' title='后勤服务' target='_blank'/>后勤服务</a></td><td width='8'>&nbsp;</td></tr></table></div>";linkset1[10][3] = "<div class='menuitems1'><table border='0' cellpadding='0' cellspacing='0'><tr><td width='8'>&nbsp;</td><td height='18' nowrap='nowrap' align='center' valign='middle'><a href='http://xxb.nankai.edu.cn' title='网络服务' target='_blank'/>网络服务</a></td><td width='8'>&nbsp;</td></tr></table></div>";linkset1[10][4] = "<div class='menuitems1'><table border='0' cellpadding='0' cellspacing='0'><tr><td width='8'>&nbsp;</td><td height='18' nowrap='nowrap' align='center' valign='middle'><a href='http://nkjd.nankai.edu.cn/' title='接待服务' target='_blank'/>接待服务</a></td><td width='8'>&nbsp;</td></tr></table></div>";linkset1[10][5] = "<div class='menuitems1'><table border='0' cellpadding='0' cellspacing='0'><tr><td width='8'>&nbsp;</td><td height='18' nowrap='nowrap' align='center' valign='middle'><a href='http://zbb.nankai.edu.cn' title='招投标' target='_blank'/>招投标</a></td><td width='8'>&nbsp;</td></tr></table></div>";window.menuReady_menu1=true;</script>
+</li>
+      <li class="menuright"></li>
+     </ul>
+     <div class="clear"></div>
+   </div>
+   </div>
+		<div class="focus"></div>
+        <div class="none">
+        <table cellspacing=0 cellpadding=0 border=0 width=100%><tr><td align=center valign=top><table cellspacing=0 cellpadding=0 border=0><tr><td align=center class="main_shadow"><table border=0 cellspacing=1 cellpadding=1 width=240.0 height=180.0><tr><td height=1 align=center vlign=top class="chan_pic_td_3"><a href="#"  class="chan_pic_3" onclick="goUrl3();"><img id="imgInit3" style="FILTER: revealTrans(duration=2,transition=20);border:0" src="" width=240.0 height=180.0  name="imgInit3" vspace=0></a></td></tr></table></td><td width=9></td><td valign='top' nowrap align=left class="main_shadow"><table width='100%' cellspacing='0' cellpadding='0'><tr><td class="chan_tit_td_3"><div id='imgText3'></div></td></tr><tr><td class="chan_con_td_3"><div id='imgContent3'></div></td></tr></table></td></tr></table></td></tr><script language=JavaScript>var imgUrl3=new Array();var imgLink3=new Array();var imgText3=new Array();var imgContent3= new Array();var adNum3=0;imgUrl3[1]="/picture/article/12/be/9b/d619a60940a6ad533eb26f1d12f3/d36d4136-32a6-4356-af5a-857415a6451d.jpg";imgLink3[1]="http://news.nankai.edu.cn/xwzt/system/2014/10/13/000204500.shtml";imgText3[1]="热烈庆祝南开大学建校95周年";imgContent3[1]="";imgUrl3[2]="/picture/article/12/56/0b/98e74f734791910f3a52159b0c20/3531a695-0cb0-435f-b37d-47e317712d5d.jpg";imgLink3[2]="http://news.nankai.edu.cn/xwzt/system/2013/06/18/000130514.shtml";imgText3[2]="加强高校科研经费管理工作";imgContent3[2]="";imgUrl3[3]="/picture/article/12/d7/5f/f0475bc74706977384470d054143/8c4115b4-4603-4514-a98d-7df17a47e816.jpg";imgLink3[3]="http://news.nankai.edu.cn/nkyw/system/2014/03/05/000168254.shtml";imgText3[3]="南开大学章程专题";imgContent3[3]="";imgUrl3[4]="/picture/article/12/24/0e/ae4a1920435ebbcc58e4f3d94cc4/d8f583cd-6f10-4fcb-bd46-c85b62135b83.jpg";imgLink3[4]="http://news.nankai.edu.cn/xwzt/system/2014/09/25/000202559.shtml";imgText3[4]="津南新校区路桥征名";imgContent3[4]="";imgUrl3[5]="/picture/article/12/83/e2/d6e8fa0b4644ad0aed1a5c4b22aa/ea7b2f1e-56a9-4dab-bb3f-485d23928b59.jpg";imgLink3[5]="http://www.nankai.edu.cn/s/12/t/27/47/27/info18215.htm";imgText3[5]="人才招聘";imgContent3[5]="";var imgPre3=new Array();var j3=0;for (i=1;i<=5;i++) {if( (imgUrl3[i]!="") && (imgLink3[i]!="") ) {j3++;}else{break;}}function playTran3(){if (document.all)imgInit3.filters.revealTrans.play();}var key3=0;function nextAd3(){adNum3=Math.round(Math.random()*j3)+1;if (adNum3>j3){adNum3=j3;}; if( key3==0 ){key3=1;} else if (document.all){imgInit3.filters.revealTrans.Transition=50;imgInit3.filters.revealTrans.apply();playTran3();}document.getElementById('imgInit3').src=imgUrl3[adNum3];document.getElementById('imgText3').innerHTML = '<a href="#" class="chan_tit_3" onclick="goUrl3();" >' + imgText3[adNum3] + '</a>';document.getElementById('imgContent3').innerHTML = '<a href="#" class="chan_con_3" onclick="goUrl3();" >' + imgContent3[adNum3] + '</a>';theTimer=setTimeout("nextAd3()", 4000);} function goUrl3(){jumpUrl=imgLink3[adNum3];	jumpTarget='_blank';if (jumpUrl != ''){if (jumpTarget != '') window.open(jumpUrl,jumpTarget);else location.href=jumpUrl;}} nextAd3();</script></table><table border=0 cellspacing=0 cellpadding=0 width=100% valign=top><tr><td align=right><div align=right><a href="/s/12/t/27/p/3/list.htm" target="_self"><img src='/images/button/more.gif' border='0'></a></div></td></tr></table>
+</div>
+
+   <div class="clear"></div>
+  </div>
+ </div><!--End:header-->
+ <div class="wrapper" id="container">
+  <div class="inner clearfix">
+   <div class="mod ml">
+     <ul class="flink clearfix">
+<table cellspacing=0 cellpadding=0 border=0 width=100%><tr><td height=1 width="100%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><p><!--<a href="http://news.nankai.edu.cn/xwzt/system/2013/06/19/000131254.shtml"><img border="0" alt="" src="/picture/article/12/5c/39/5e5fa3594d12a6d304c301ffbb08/02d81224-93d8-4caf-9959-8abb9eb93b55.jpg" /></a>-->&nbsp;</p>
+<table cellspacing="0" cellpadding="0" width="168" border="0">
+    <tbody>
+        <tr>
+            <td><a target="_blank" href="http://xb.nankai.edu.cn"><img border="0" alt="" src="/picture/article/12/5c/39/5e5fa3594d12a6d304c301ffbb08/8ecd40f1-7a07-4cb9-9bc2-681367cf7925.jpg" /></a></td>
+            <td><a target="_blank" href="http://xzxx.nankai.edu.cn"><img border="0" alt="" src="/picture/article/12/5c/39/5e5fa3594d12a6d304c301ffbb08/70e9dbae-03ec-4cd2-9142-3df3b6fe939c.gif" /></a></td>
+        </tr>
+        <tr>
+            <td><a target="_blank" href="http://urp.nankai.edu.cn"><img border="0" alt="" src="/picture/article/12/5c/39/5e5fa3594d12a6d304c301ffbb08/a8cc584c-ad8a-4bfc-809f-55e1454862a8.gif" /></a></td>
+            <td><a target="_blank" href="http://nkuaa.nankai.edu.cn"><img border="0" alt="" src="/picture/article/12/5c/39/5e5fa3594d12a6d304c301ffbb08/71deb70c-c833-4960-a79c-48a12d6149ff.gif" /></a></td>
+        </tr>
+        <tr>
+            <td><a target="_blank" href="http://nkxxq.nankai.edu.cn"><img border="0" alt="" src="/picture/article/12/5c/39/5e5fa3594d12a6d304c301ffbb08/77d0e9a5-5eb5-4b21-9e49-0095596e7b46.gif" /></a></td>
+            <td><a target="_blank" href="http://nkuef.nankai.edu.cn"><img border="0" alt="" src="/picture/article/12/5c/39/5e5fa3594d12a6d304c301ffbb08/4ae86957-e07d-4eee-a482-70886fab7d5e.gif" /></a></td>
+        </tr>
+    </tbody>
+</table></td>
+  </tr>
+</TABLE></td></tr><tr><td height=10 width="100%"></td></tr></table>
+
+     </ul>
+    <div class="zt">
+    <div class="charl"></div>
+      <div class="logins">
+	 <form id="loginForm" method="post" action="http://nankai.edu.cn/coremail/index.jsp">
+	  <span class="input"><input type="text" id="loginUserName" name="uid" value="用户名" onfocus="if(value=='用户名') {value=''}" onblur="if (value=='') {value='用户名'}" style="border:none;" /></span>
+	  <span class="input"><input type="password" id="loginPassword" name="password" value="请输入密码" onfocus="if(value=='请输入密码') {value=''}" onblur="if (value=='') {value='请输入密码'}" style="border:none;" /></span>
+      <span class="sel">
+       <cite id="mailname">教工电子邮箱</cite>
+       <a class="switch"></a>
+       <ul class="mailslist">
+         <li id="js">教工电子邮箱</li>
+         <li id="xs">学生电子邮箱</li>
+       </ul>
+        <select name="loginSelect" id="loginSelect" class="mails">
+          <option class="js" selected="selected" value="js">nankai.edu.cn</option>
+          <option class="xs" value="xs">mail.nankai.edu.cn</option>
+        </select>
+      </span>
+      <span id="loginParas" style="display:none;"></span>
+      <div class="sbt clearfix"><span class="sbt_l fl"><a href="http://222.30.44.136/reg/agreement.htm">邮箱注册</a></span><span class="sbt_r fr"><input name="action:login" type="submit"  value="登 录" /></span></div>
+            <input type="hidden" name="locale" value="zh_CN" />                        <input type="hidden" name="domain" value="nankai.edu.cn">
+	 </form>
+     </div>
+    </div>
+
+
+   </div>
+   <div class="mod mc">
+    <div class="post">
+      <h3><span class="tt">最新动态</span><span class="more"><div align=right><a href="http://news.nankai.edu.cn" target="_blank">更多-></a></div></span></h3>
+      <div class="con" id="pd12">
+       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td class="nlink"><table width=100%  cellpadding=0 cellspacing=0 border=0><tr><td align=left><b><a href='/s/12/t/27/5d/94/info23956.htm' target=_blank title="《南开大学章程》全文"><b>《南开大学章程》全文</b></a></b></td><td  width='30' align=right><div style='white-space:nowrap'>10-12</div></td></tr></table></td>
+  </tr>
+
+  <tr>
+    <td class="nlink"><table width=100%  cellpadding=0 cellspacing=0 border=0><tr><td align=left><a href='http://news.nankai.edu.cn/xwzt/system/2014/10/20/000205585.shtml' target=_blank title="【专题】聚焦十八届四中全会">【专题】聚焦十八届四中全会</a></td><td  width='30' align=right><div style='white-space:nowrap'>10-21</div></td></tr></table></td>
+  </tr>
+
+  <tr>
+    <td class="nlink"><table width=100%  cellpadding=0 cellspacing=0 border=0><tr><td align=left><a href='/s/12/t/27/5e/91/info24209.htm' target=_blank title="中国研究生院院长联席会2014年年会在津召开">中国研究生院院长联席会2014年年会在津召开</a></td><td  width='30' align=right><div style='white-space:nowrap'>10-20</div></td></tr></table></td>
+  </tr>
+
+  <tr>
+    <td class="nlink"><table width=100%  cellpadding=0 cellspacing=0 border=0><tr><td align=left><a href='/s/12/t/27/5e/90/info24208.htm' target=_blank title="工商管理学科青年学者齐聚南开研讨学术与成长">工商管理学科青年学者齐聚南开研讨学术与成长</a></td><td  width='30' align=right><div style='white-space:nowrap'>10-20</div></td></tr></table></td>
+  </tr>
+
+  <tr>
+    <td class="nlink"><table width=100%  cellpadding=0 cellspacing=0 border=0><tr><td align=left><a href='/s/12/t/27/5e/8f/info24207.htm' target=_blank title="化学学院、马克思主义教育学院、哲学院开展本科教学审核评估自评">化学学院、马克思主义教育学院、哲学院开展本科教学审核评...</a></td><td  width='30' align=right><div style='white-space:nowrap'>10-20</div></td></tr></table></td>
+  </tr>
+</TABLE>
+      </div>
+    </div>
+    <div class="post">
+      <h3><span class="tt">校情通报</span><span class="more"><div align=right><a href="/s/12/t/27/c/634/d/636/list.htm" target="_self">更多-></a></div></span></h3>
+      <div class="con" id="pd13">
+       <table cellspacing=0 cellpadding=0 border=0 width=100%><tr><td height=1 width="100%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><table width='100%' cellSpacing='0' cellPadding='0'><tr><td class="chan_tit_td_13"><a href='/s/12/t/27/5d/6f/info23919.htm' class="chan_tit_13" target='_blank' title='校情通报（2014-39）'>校情通报（2014-39）</a></td></tr><tr><td class="chan_con_td_13"><a href='/s/12/t/27/5d/6f/info23919.htm' class="chan_con_13" target='_blank' title='校情通报（2014-39）'>&nbsp;&nbsp;&nbsp;近日，学校收悉《中华人民共和国教育部高等学校章程核准书》（第27号）。核准书载明，《南开大学章程》经第8届学校党委会第9次全体会议审议通过，教育部高等...</a></td></tr></table></td>
+  </tr>
+</TABLE></td></tr><tr><td height=10 width="100%"></td></tr><tr><td height=1 width="100%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><table width='100%' cellSpacing='0' cellPadding='0'><tr><td class="chan_tit_td_13"><a href='/s/12/t/27/5d/06/info23814.htm' class="chan_tit_13" target='_blank' title='校情通报（2014-38）'>校情通报（2014-38）</a></td></tr><tr><td class="chan_con_td_13"><a href='/s/12/t/27/5d/06/info23814.htm' class="chan_con_13" target='_blank' title='校情通报（2014-38）'>&nbsp;&nbsp;&nbsp;当地时间9月30日，由我校与图卢兹第一大学共同组织承办的中法两国经济增长与环境论坛在法国图卢兹举行。法国外交部长洛朗&bull;法比尤斯、中国驻法国大...</a></td></tr></table></td>
+  </tr>
+</TABLE></td></tr><tr><td height=10 width="100%"></td></tr></table>
+      </div>
+    </div>
+   </div>
+   <div class="mod mr">
+     <div class="post">
+      <h3><span class="tt">通知公告</span><span class="more"><div align=right><a href="/s/12/t/27/c/634/d/635/list.htm" target="_self">更多-></a></div></span></h3>
+      <div class="con" id="pd14">
+       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td class="nlink"><table width=100%  cellpadding=0 cellspacing=0 border=0><tr><td align=left><b><a href='http://xb.nankai.edu.cn/attach/2014/10/12/20217.pdf' target=_blank title="南开大学章程"><b>南开大学章程</b></a></b></td><td  width='30' align=right><div style='white-space:nowrap'>10-12</div></td></tr></table></td>
+  </tr>
+
+  <tr>
+    <td class="nlink"><table width=100%  cellpadding=0 cellspacing=0 border=0><tr><td align=left><b><a href='/s/12/t/27/5c/97/info23703.htm' target=_blank title="津南新校区路桥征名启事"><b>津南新校区路桥征名启事</b></a></b></td><td  width='30' align=right><div style='white-space:nowrap'>09-29</div></td></tr></table></td>
+  </tr>
+
+  <tr>
+    <td class="nlink"><table width=100%  cellpadding=0 cellspacing=0 border=0><tr><td align=left><a href='/s/12/t/27/5e/92/info24210.htm' target=_blank title="停电通知">停电通知</a></td><td  width='30' align=right><div style='white-space:nowrap'>10-20</div></td></tr></table></td>
+  </tr>
+
+  <tr>
+    <td class="nlink"><table width=100%  cellpadding=0 cellspacing=0 border=0><tr><td align=left><a href='/s/12/t/27/5e/7a/info24186.htm' target=_blank title="关于举办南开大学教职工合唱音乐会的通知">关于举办南开大学教职工合唱音...</a></td><td  width='30' align=right><div style='white-space:nowrap'>10-20</div></td></tr></table></td>
+  </tr>
+
+  <tr>
+    <td class="nlink"><table width=100%  cellpadding=0 cellspacing=0 border=0><tr><td align=left><a href='/s/12/t/27/5e/45/info24133.htm' target=_blank title="关于举办2014年教职工乒乓球比赛的通知">关于举办2014年教职工乒乓球比...</a></td><td  width='30' align=right><div style='white-space:nowrap'>10-16</div></td></tr></table></td>
+  </tr>
+</TABLE>
+      </div>
+    </div>
+    <div class="post">
+      <h3><span class="tt">校园活动</span><span class="more"><div align=right><a href="/s/12/t/27/c/634/d/637/list.htm" target="_self">更多-></a></div></span></h3>
+      <div class="con"  id="pd15">
+       <table cellspacing=0 cellpadding=0 border=0 width=100%><tr><td height=1 width="100%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><table>    <tr>        <td class="chan_pic_td_15"><a href='/s/12/t/27/38/b7/info14519.htm' target='_blank' class="chan_pic_15" title='第二届中国政治思想史论坛成功召开'><img border=0 width=103.0  height=63.0 src='/picture/article/12/9c/49/4670bca549fcb3c991c2639f3c74/985b8cdf-aa6b-4f1c-a8ea-e904e3d6be7f.jpg'></a></td>        <td width=3></td>        <td valign='top'  ><table width='100%' cellSpacing='0' cellPadding='0'><tr><td class="chan_tit_td_15"><a href='/s/12/t/27/38/b7/info14519.htm' class="chan_tit_15" target='_blank' title='第二届中国政治思想史论坛成功召开'>第二届中国政治思想史论坛...</a></td></tr><tr><td class="chan_con_td_15"><a href='/s/12/t/27/38/b7/info14519.htm' class="chan_con_15" target='_blank' title='第二届中国政治思想史论坛成功召开'>南开新闻网讯(通讯员郭御龙)日前，由南开大学周恩...</a></td></tr></table></td>    </tr></table></td>
+  </tr>
+</TABLE></td></tr><tr><td height=10 width="100%"></td></tr></table>
+      </div>
+      <div class="line"></div>
+      <div class="con" id="pd16">
+       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td class="nlink"><table width=100%  cellpadding=0 cellspacing=0 border=0><tr><td align=left><a href='/s/12/t/27/55/48/info21832.htm' target=_blank title="关于开展南开大学第六届“良师益友”评选活动的通知">关于开展南开大学第六届“良师...</a></td><td  width='30' align=right><div style='white-space:nowrap'>05-21</div></td></tr></table></td>
+  </tr>
+
+  <tr>
+    <td class="nlink"><table width=100%  cellpadding=0 cellspacing=0 border=0><tr><td align=left><a href='/s/12/t/27/54/e1/info21729.htm' target=_blank title="“梦萦南开&nbsp;心语师情”——2014年研究生毕业生感念师恩主题征文启事">“梦萦南开 心语师情”——2014...</a></td><td  width='30' align=right><div style='white-space:nowrap'>05-14</div></td></tr></table></td>
+  </tr>
+
+  <tr>
+    <td class="nlink"><table width=100%  cellpadding=0 cellspacing=0 border=0><tr><td align=left><a href='/s/12/t/27/52/47/info21063.htm' target=_blank title="金牌助管训练营之新闻摄影培训">金牌助管训练营之新闻摄影培训</a></td><td  width='30' align=right><div style='white-space:nowrap'>04-18</div></td></tr></table></td>
+  </tr>
+
+  <tr>
+    <td class="nlink"><table width=100%  cellpadding=0 cellspacing=0 border=0><tr><td align=left><a href='/s/12/t/27/52/46/info21062.htm' target=_blank title="首届“全国研究生智慧城市技术与创意设计大赛”工作方案">首届“全国研究生智慧城市技术...</a></td><td  width='30' align=right><div style='white-space:nowrap'>04-18</div></td></tr></table></td>
+  </tr>
+</TABLE>       
+      </div>
+    </div>
+   </div>
+   <div class="clear"></div>
+  </div>
+ </div><!--End:container-->
+ <div class="clear"></div>
+ <div class="wrapper" id="footer">
+  <div class="hotlink">
+  <table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+	<td align="center"><a href="http://zbb.nankai.edu.cn" target="_blank">南开招标网</a>&nbsp;&nbsp;<a href="http://binhai.nankai.edu.cn" target="_blank">滨海学院</a>&nbsp;&nbsp;<a href="http://ndfx.nankai.edu.cn/" target="_blank">附属小学</a>&nbsp;&nbsp;<a href="http://jw.nankai.edu.cn/" target="_blank">觉悟网</a>&nbsp;&nbsp;<a href="http://xs.nankai.edu.cn/" target="_blank">校史网</a>&nbsp;&nbsp;<a href="http://hqfw.nankai.edu.cn" target="_blank">后勤服务网</a></td>
+  </tr></table>
+  </div>
+  <div class="inner">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr valign="bottom">
+    <td height="66" align="center" valign="middle"><table border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr align="center">
+        <td>天津市卫津路94号 [300071] &nbsp;津教备0061号 津ICP备12003308号-1&nbsp;</td>
+        <td width="110"><table border="0" cellspacing="0" cellpadding="0">
+          <tr valign="middle">
+            <td width="25" align="left" nowrap="nowrap" widdth="30"><a href="/page/main27/images/74567_269071.jpg" id="weixin" target="_blank" title="南开大学官方微信(nankaiuni)"><img src="/page/main27/images/weixin.gif"  width="20" height="20" /></a></td>
+            <td width="30" align="center" nowrap="nowrap"><a href="http://t.qq.com/Nkdaxue" target="_blank"><img src="/page/main27/images/txwb.gif" width="20" height="20" title="南开大学腾讯微博" /></a></td>
+            <td width="25" align="right" nowrap="nowrap" widdth="30"><a href="http://weibo.com/nankaiuni" target="_blank"><img src="/page/main27/images/xlwb.gif" width="20" height="20" title="南开大学新浪微博" /></a></td>
+			<td width="25" align="right" nowrap="nowrap" widdth="30"><a href="http://page.renren.com/600723792" target="_blank"><img src="/page/main27/images/renren.gif" width="20" height="20" title="南开大学人人网公共主页" /></a></td>
+			<td width="25" align="right" nowrap="nowrap" widdth="30"><a href="http://bbs.nankai.edu.cn" target="_blank"><img src="/page/main27/images/bbs.gif" width="20" height="20" title="南开大学BBS" /></a></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td></tr></table>
+  </div>
+ </div><!--End:footer-->
+</div><!--End:ALL-->
+<!--hide--->
+<div id="apDiv1" onclick="location.href='/s/12/t/27/main.htm';">&nbsp;&nbsp;</div>
+
+
+<div id="shortnav" class="none"><table border=0 cellspacing=0 cellpadding=0 width='100%'><tr><td> <table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><table width='100%' height='1' cellpadding=0 cellspacing=0 border=0><tr><td align=left><a href="/s/12/t/27/p/121/c/885/list.htm" title="学生" target="_self">学生</a></td></tr></table></td>
+  </tr>
+</table></td><td> <table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><table width='100%' height='1' cellpadding=0 cellspacing=0 border=0><tr><td align=left><a href="/s/12/t/27/p/121/c/886/list.htm" title="教工" target="_self">教工</a></td></tr></table></td>
+  </tr>
+</table></td><td> <table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><table width='100%' height='1' cellpadding=0 cellspacing=0 border=0><tr><td align=left><a href="/s/12/t/27/p/121/c/887/list.htm" title="考生" target="_self">考生</a></td></tr></table></td>
+  </tr>
+</table></td><td> <table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><table width='100%' height='1' cellpadding=0 cellspacing=0 border=0><tr><td align=left><a href="http://nkuaa.nankai.edu.cn" title="校友" target="_blank">校友</a></td></tr></table></td>
+  </tr>
+</table></td><td> <table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><table width='100%' height='1' cellpadding=0 cellspacing=0 border=0><tr><td align=left><a href="/s/12/t/27/p/121/c/1130/list.htm" title="访客" target="_self">访客</a></td></tr></table></td>
+  </tr>
+</table></td></table>
+</div>
+
+</body><script type="text/javascript">
+$(function(){
+	$(".focus").sudySlider({
+		pd:3,
+		scale: 292/1000,
+		effect:"slide",
+		text: false,
+		speed: 500
+	});
+});
+</script>
+</html><image src="/sitecount/addsitecount?siteId=12&pageId=27" style="display:none" width="0" height="0"></image>
